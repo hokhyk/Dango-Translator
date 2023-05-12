@@ -1,0 +1,122 @@
+agree_collect_time: '2022-09-25'
+auto_login: false
+dict_info:
+  auto_update_file_md5: a991f4bdbfb1f7ec2d8aac69634d7648
+  auto_update_file_url: https://dango-static.eos-shanghai-2.cmecloud.cn/patches/dango_translator/%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0%E7%A8%8B%E5%BA%8F.exe
+  baidu_tutorial: https://docs2.ayano.top/#/4.0/basic/translate?id=%e7%99%be%e5%ba%a6%e7%bf%bb%e8%af%91%e6%8e%a5%e5%8f%a3
+  baidu_xpath: //*[@id="app-guide"]/div/div/div[2]/span
+  bg_pixiv_id: '77913516'
+  bilibili_video: https://www.bilibili.com/video/BV1gp4y1Q7Ts
+  caiyun_tutorial: https://docs2.ayano.top/#/4.0/basic/translate?id=%e5%bd%a9%e4%ba%91%e5%b0%8f%e8%af%91%e6%8e%a5%e5%8f%a3
+  chatgpt_tutorial: https://docs2.ayano.top/#/4.0/basic/translate?id=chatgpt%e7%bf%bb%e8%af%91
+  close_statusbar_url: https://dango-static.eos-shanghai-2.cmecloud.cn/resources/translator/%E5%B1%8F%E8%94%BD%E6%B6%88%E6%81%AF%E6%A0%8F.png
+  cover_pixiv_id: '92652519'
+  dango_check_email: https://43.154.0.93/DangoTranslate/CheckEmail
+  dango_get_config: https://43.154.0.93/DangoTranslate/GetSettin
+  dango_get_inform: https://43.154.0.93/DangoTranslate/Getinform
+  dango_home_page: https://translator.dango.cloud/
+  dango_login: https://43.154.0.93/DangoTranslate/Login
+  dango_modify_email: https://43.154.0.93/DangoTranslate/ModifyEmail
+  dango_modify_password: https://43.154.0.93/DangoTranslate/ModifyPassword
+  dango_qq_group: https://dango-static.eos-shanghai-2.cmecloud.cn/resources/translator/%E5%9B%A2%E5%AD%90%E7%BF%BB%E8%AF%91%E5%99%A81%E7%BE%A4%E7%BE%A4%E8%81%8A%E4%BA%8C%E7%BB%B4%E7%A0%81.png
+  dango_register: https://43.154.0.93/DangoTranslate/Register
+  dango_save_settin: https://43.154.0.93/DangoTranslate/SaveSettin
+  dango_send_email: https://43.154.0.93/DangoTranslate/SendEmail
+  function_icon_url: https://dango-static.eos-shanghai-2.cmecloud.cn/resources/translator/function.png
+  latest_version: 4.4.4
+  loading_gif_url: https://dango-static.eos-shanghai-2.cmecloud.cn/resources/translator/loading.gif
+  login_image_url: https://dango-static.eos-shanghai-2.cmecloud.cn/resources/translator/login.png
+  manga_font_file_url: https://dango-static.eos-shanghai-2.cmecloud.cn/patches/dango_translator/NotoSansSC-Regular.otf
+  manga_ocr: https://dl-dev.ap-sh.starivercs.cn/v2/manga_trans/advanced/manga_ocr
+  manga_text_inpaint: https://dl-dev.ap-sh.starivercs.cn/v2/manga_trans/advanced/text_inpaint
+  manga_text_render: https://dl-dev.ap-sh.starivercs.cn/v2/manga_trans/advanced/text_render
+  manga_tutorial: https://docs2.ayano.top/#/4.0/basic/dangotranslator
+  ocr_buy_html_base64: aHR0cHM6Ly9jbG91ZC5zdGFyaXZlci5vcmcuY24vQ2xpZW50QXJlYS8/cGFnZT1idXkuaHRtbCZ0YWI9JUU4JUI0JUFEJUU0JUI5JUIwJUU2JTlDJThEJUU1JThBJUEx
+  ocr_host: access.ayano.top
+  ocr_install_url: https://dango-static.eos-shanghai-2.cmecloud.cn/patches/dango_translator_ocr/ocr-20230222-pyinstall.zip
+  ocr_login: https://capiv1.ap-sh.starivercs.cn/OCR/Admin/Login
+  ocr_login_html: https://cloud.stariver.org.cn/auth/login.html
+  ocr_node: "{\"\u6D77\u53E3\u79FB\u52A8\":\"111.29.52.114\",\"\u5E7F\u5DDE\u79FB\u52A8\
+    \":\"120.232.5.123\",\"\u5408\u80A5\u79FB\u52A8\":\"39.145.2.53\",\"\u6E29\u5DDE\
+    \u79FB\u52A8\":\"117.149.201.69\",\"\u798F\u5DDE\u7535\u4FE1\":\"125.77.29.201\"\
+    ,\"\u5357\u5B81\u8054\u901A\":\"220.200.129.225\",\"\u5927\u8FDE\u8054\u901A\"\
+    :\"42.7.60.207\",\"\u90D1\u5DDE\u8054\u901A\":\"42.236.92.137\",\"\u5357\u660C\
+    \u8054\u901A\":\"116.153.46.36\",\"\u9752\u5C9B\u8054\u901A\":\"123.234.2.90\"\
+    ,\"\u6B66\u6C49\u8054\u901A\":\"119.36.218.7\"}"
+  ocr_probation: https://dl.ap-sh.starivercs.cn/OcrProbation
+  ocr_probation_read_count: https://dl.ap-sh.starivercs.cn/OcrProbationReadCount
+  ocr_query_quota: https://capiv1.ap-sh.starivercs.cn/OCR/Admin/ShowUserServerInfo
+  ocr_server: https://dl.ap-sh.starivercs.cn/OCR
+  ocr_src_file: https://dango-static.eos-shanghai-2.cmecloud.cn/patches/dango_translator/app.py
+  open_statusbar_url: https://dango-static.eos-shanghai-2.cmecloud.cn/resources/translator/%E6%98%BE%E7%A4%BA%E6%B6%88%E6%81%AF%E6%A0%8F.png
+  pil_file_url: https://dango-static.eos-shanghai-2.cmecloud.cn/patches/dango_translator/_imagingft.cp38-win32.pyd
+  qq_group_number: '651351974'
+  register_image_url: https://dango-static.eos-shanghai-2.cmecloud.cn/resources/translator/register.gif
+  settin_desc_image_url: https://dango-static.eos-shanghai-2.cmecloud.cn/resources/translator/settin-desc.jpg
+  settin_image_url: https://dango-static.eos-shanghai-2.cmecloud.cn/resources/translator/settin.jpg
+  tencent_tutorial: https://docs2.ayano.top/#/4.0/basic/translate?id=%e8%85%be%e8%ae%af%e7%bf%bb%e8%af%91%e6%8e%a5%e5%8f%a3
+  test_image: https://dango-static.eos-shanghai-2.cmecloud.cn/resources/translator/image.jpg
+  test_version_switch: '1'
+  trans_collect_url: https://dango.zj.svc.c4a15wh.cn/trans/collect
+  tutorial_public_trans: https://docs2.ayano.top/#/4.0/basic/translate
+  tutorial_url: https://docs2.ayano.top/#/4.0/basic/start
+  tutorials_baidu_ocr: https://docs2.ayano.top/#/4.0/basic/ocr?id=%e7%99%be%e5%ba%a6ocr%e4%bb%8b%e7%bb%8d
+  tutorials_offline_ocr: https://docs2.ayano.top/#/4.0/basic/ocr?id=%e7%a6%bb%e7%ba%bfocr%e4%bb%8b%e7%bb%8d
+  tutorials_online_ocr: https://docs2.ayano.top/#/4.0/basic/ocr?id=%e5%9c%a8%e7%ba%bfocr%e4%bb%8b%e7%bb%8d
+  update_version: https://dango-static.eos-shanghai-2.cmecloud.cn/patches/dango_translator/%E5%9B%A2%E5%AD%90%E7%BF%BB%E8%AF%91%E5%99%A84.4.4.exe
+  update_version_message: "\u7248\u672C\u53F7\uFF1A4.4.3-4.4.4\r\n2023/04/24-2023/04/25\
+    \  \u66F4\u65B0\u5185\u5BB9:\r\n\u65B0\u589E:\r\n1. \u4FEE\u6539\u8FDE\u63A5\u670D\
+    \u52A1\u5668\u65B9\u5F0F\uFF0C\u4FEE\u590D\u670D\u52A1\u8FDE\u63A5\u4E0D\u4E0A\
+    \u95EE\u9898;    \r\n2. \u4FEE\u590D\u8FDE\u63A5\u4E0D\u4E0A\u670D\u52A1\u5668\
+    \u65F6\u7FFB\u8BD1\u5668\u5F02\u5E38\u5D29\u6E83;    \r\n\r\n\u7248\u672C\u53F7\
+    \uFF1A4.4.2\r\n2023/03/24  \u66F4\u65B0\u5185\u5BB9:\r\n\u65B0\u589E:\r\n1. \u4FEE\
+    \u590D\u8FDE\u63A5\u4E0D\u4E0A\u670D\u52A1\u5668\u65F6\u7FFB\u8BD1\u5668\u5F02\
+    \u5E38\u5D29\u6E83;      \r\n1. \u79C1\u4EBA\u7FFB\u8BD1\u65B0\u589EChatGPT, \u9700\
+    \u8981\u5BC6\u94A5+\u4EE3\u7406\u624D\u53EF\u4F7F\u7528;      \r\n2. \u65B0\u589E\
+    \u53EF\u624B\u52A8\u4FEE\u6539\u539F\u6587\u5E76\u5237\u65B0\u7FFB\u8BD1\u529F\
+    \u80FD      \r\n    \u4F4D\u4E8E\u7FFB\u8BD1\u6846\u7684\u7FFB\u8BD1\u952E\u53F3\
+    \u4FA7\u65B0\u56FE\u6807\u4F7F\u7528;      \r\n3. \u65B0\u589E\u7FFB\u8BD1\u6846\
+    \u81EA\u52A8\u8BB0\u5F55\u4E0A\u4E00\u6B21\u9000\u51FA\u7684\u4F4D\u7F6E\u548C\
+    \u5927\u5C0F;      \r\n4. \u5728\u8BBE\u7F6E\u9875\u9762\u5B57\u4F53\u9009\u62E9\
+    \u65F6\u4E0B\u62C9\u6846\u53EF\u9884\u89C8\u5B57\u4F53\u6837\u5F0F;      \r\n\
+    \    \u5E76\u4E14\u4FEE\u6539\u5B57\u4F53\u5927\u5C0F\u548C\u6837\u5F0F\u540E\u9000\
+    \u51FA\u8BBE\u7F6E\u4F1A\u7ACB\u5373\u751F\u6548;      \r\n5. \u8F6F\u4EF6\u542F\
+    \u52A8\u65F6\u8303\u56F4\u6846\u4E5F\u4F1A\u4E00\u8D77\u548C\u7FFB\u8BD1\u6846\
+    \u663E\u793A;      \r\n\r\n\u4F18\u5316:\r\n1. \u4FEE\u590D\u81EA\u52A8\u7FFB\u8BD1\
+    \u65F6\u524D\u540E\u622A\u56FE\u76F8\u4F3C\u5EA6\u5BF9\u6BD4\u5931\u6548     \
+    \ \r\n    \u8BE5\u95EE\u9898\u4F1A\u5BFC\u81F4\u4E0D\u505C\u5237\u65B0\u7FFB\u8BD1\
+    \u4ECE\u800C\u51FA\u73B0'\u95EA\u70C1'\u73B0\u8C61;      \r\n2. \u4FEE\u590D\u516C\
+    \u5171\u6709\u9053\u7FFB\u8BD1\u5931\u6548\u95EE\u9898;        \r\n3. \u81EA\u52A8\
+    \u767B\u5F55\u5931\u8D25\u4F1A\u8FD4\u56DE\u767B\u5F55\u754C\u9762\u800C\u4E0D\
+    \u662F\u5931\u8D25\u6B7B\u5FAA\u73AF;        \r\n4. \u4E00\u4E9B\u63D0\u793A\u7A97\
+    \u53E3\u7684\u6587\u672C\u4F18\u5316;        \r\n5. \u4E00\u4E9B\u5DF2\u77E5\u95EE\
+    \u9898\u7684\u4F18\u5316;      "
+  youdao_xpath: /html/body/div[1]/div/ul/li[4]/div/a[2]
+dict_info_url: https://trans.dango.cloud/DangoTranslate/ShowDict
+ocr_cmd_path: .\ocr\startOCR.cmd
+password: ''
+port: 6666
+range1:
+  h: 0
+  w: 0
+  x: 0
+  y: 0
+range2:
+  h: 0
+  w: 0
+  x: 0
+  y: 0
+range3:
+  h: 0
+  w: 0
+  x: 0
+  y: 0
+range4:
+  h: 0
+  w: 0
+  x: 0
+  y: 0
+screen_scale_rate: 1.0
+selenium_debug: false
+user: ''
+version: 4.4.4
